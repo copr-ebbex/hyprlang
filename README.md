@@ -1,0 +1,3 @@
+# hyprlang
+
+The hyprlang package
