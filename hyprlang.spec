@@ -40,7 +40,7 @@ Development files for %{name}.
 %license LICENSE
 %doc README.md
 %{_libdir}/libhyprlang.so.2
-%{_libdir}/libhyprlang.so.%{version}
+%{_libdir}/libhyprlang.so.0.*
 
 %files devel
 %{_includedir}/hyprlang.hpp
