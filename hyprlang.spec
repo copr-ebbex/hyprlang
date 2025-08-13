@@ -1,5 +1,5 @@
 Name:           hyprlang
-Version:        0.6.3
+Version:        0.6.4
 Release:        %autorelease
 Summary:        The official implementation library for the hypr config language
 
@@ -12,7 +12,7 @@ ExcludeArch:    %{ix86}
 
 BuildRequires:  cmake
 BuildRequires:  gcc-c++
-BuildRequires:  pkgconfig(hyprutils)
+BuildRequires:  pkgconfig(hyprutils) >= 0.7.1
 
 %description
 %{summary}.
