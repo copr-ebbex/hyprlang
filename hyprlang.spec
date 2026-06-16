@@ -1,5 +1,5 @@
 Name:           hyprlang
-Version:        0.6.4
+Version:        0.6.8
 Release:        %autorelease
 Summary:        The official implementation library for the hypr config language
 
